@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 640" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="gbanner-2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b4f5c"/><stop offset="1" stop-color="#138a8a"/></linearGradient>
+  <radialGradient id="rbanner-2" cx=".85" cy=".2" r=".7"><stop offset="0" stop-color="#5fd3c4" stop-opacity=".55"/><stop offset="1" stop-color="#5fd3c4" stop-opacity="0"/></radialGradient>
+  <pattern id="dbanner-2" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="2" fill="#fff" fill-opacity=".12"/></pattern>
+</defs>
+<rect width="1920" height="640" fill="url(#gbanner-2)"/>
+<rect width="1920" height="640" fill="url(#rbanner-2)"/>
+<rect width="1920" height="640" fill="url(#dbanner-2)"/>
+<circle cx="153.6" cy="608" r="288" fill="#fff" fill-opacity=".05"/>
+<circle cx="1824" cy="32" r="192" fill="#fff" fill-opacity=".06"/>
+<g transform="translate(1260 70) scale(1.25)" opacity=".9"><g transform="translate(110 175) scale(0.75)"><circle cx="0" cy="0" r="48" fill="#ffffff" fill-opacity="0.8"/><path d="M-90 210 C-90 120 -50 75 0 75 C50 75 90 120 90 210 Z" fill="#ffffff" fill-opacity="0.8"/></g><g transform="translate(290 175) scale(0.75)"><circle cx="0" cy="0" r="48" fill="#ffffff" fill-opacity="0.8"/><path d="M-90 210 C-90 120 -50 75 0 75 C50 75 90 120 90 210 Z" fill="#ffffff" fill-opacity="0.8"/></g><g transform="translate(200 150) scale(1)"><circle cx="0" cy="0" r="48" fill="#ffffff" fill-opacity="1"/><path d="M-90 210 C-90 120 -50 75 0 75 C50 75 90 120 90 210 Z" fill="#ffffff" fill-opacity="1"/></g></g>
+</svg>

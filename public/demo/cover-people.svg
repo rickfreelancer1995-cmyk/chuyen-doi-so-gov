@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="gcover-people" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d2e5b"/><stop offset="1" stop-color="#1f5fae"/></linearGradient>
+  <radialGradient id="rcover-people" cx=".85" cy=".2" r=".7"><stop offset="0" stop-color="#5fa3f0" stop-opacity=".55"/><stop offset="1" stop-color="#5fa3f0" stop-opacity="0"/></radialGradient>
+  <pattern id="dcover-people" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="2" fill="#fff" fill-opacity=".12"/></pattern>
+</defs>
+<rect width="1600" height="1000" fill="url(#gcover-people)"/>
+<rect width="1600" height="1000" fill="url(#rcover-people)"/>
+<rect width="1600" height="1000" fill="url(#dcover-people)"/>
+<circle cx="128" cy="950" r="450" fill="#fff" fill-opacity=".05"/>
+<circle cx="1520" cy="50" r="300" fill="#fff" fill-opacity=".06"/>
+<g transform="translate(560 160) scale(1.7)"><g transform="translate(110 175) scale(0.75)"><circle cx="0" cy="0" r="48" fill="#ffffff" fill-opacity="0.8"/><path d="M-90 210 C-90 120 -50 75 0 75 C50 75 90 120 90 210 Z" fill="#ffffff" fill-opacity="0.8"/></g><g transform="translate(290 175) scale(0.75)"><circle cx="0" cy="0" r="48" fill="#ffffff" fill-opacity="0.8"/><path d="M-90 210 C-90 120 -50 75 0 75 C50 75 90 120 90 210 Z" fill="#ffffff" fill-opacity="0.8"/></g><g transform="translate(200 150) scale(1)"><circle cx="0" cy="0" r="48" fill="#ffffff" fill-opacity="1"/><path d="M-90 210 C-90 120 -50 75 0 75 C50 75 90 120 90 210 Z" fill="#ffffff" fill-opacity="1"/></g></g>
+</svg>

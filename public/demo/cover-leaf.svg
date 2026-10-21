@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="gcover-leaf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#123f2b"/><stop offset="1" stop-color="#1f7a4d"/></linearGradient>
+  <radialGradient id="rcover-leaf" cx=".85" cy=".2" r=".7"><stop offset="0" stop-color="#7fd8a4" stop-opacity=".55"/><stop offset="1" stop-color="#7fd8a4" stop-opacity="0"/></radialGradient>
+  <pattern id="dcover-leaf" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="2" fill="#fff" fill-opacity=".12"/></pattern>
+</defs>
+<rect width="1600" height="1000" fill="url(#gcover-leaf)"/>
+<rect width="1600" height="1000" fill="url(#rcover-leaf)"/>
+<rect width="1600" height="1000" fill="url(#dcover-leaf)"/>
+<circle cx="128" cy="950" r="450" fill="#fff" fill-opacity=".05"/>
+<circle cx="1520" cy="50" r="300" fill="#fff" fill-opacity=".06"/>
+<g transform="translate(560 160) scale(1.7)"><path d="M200 380 C200 300 200 240 205 170" stroke="#ffffff" stroke-width="10" fill="none" stroke-linecap="round"/><path d="M205 200 C120 210 70 150 70 70 C160 70 215 120 205 200 Z" fill="#ffffff" fill-opacity=".9"/><path d="M205 240 C280 250 340 200 345 120 C260 115 205 165 205 240 Z" fill="#ffffff" fill-opacity=".7"/><path d="M80 380 Q200 340 320 380" stroke="#ffffff" stroke-width="8" fill="none" stroke-linecap="round"/></g>
+</svg>

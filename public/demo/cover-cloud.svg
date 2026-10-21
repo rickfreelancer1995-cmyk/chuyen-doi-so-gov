@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+<defs>
+  <linearGradient id="gcover-cloud" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a3554"/><stop offset="1" stop-color="#1479b8"/></linearGradient>
+  <radialGradient id="rcover-cloud" cx=".85" cy=".2" r=".7"><stop offset="0" stop-color="#7cc8ff" stop-opacity=".55"/><stop offset="1" stop-color="#7cc8ff" stop-opacity="0"/></radialGradient>
+  <pattern id="dcover-cloud" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="2" fill="#fff" fill-opacity=".12"/></pattern>
+</defs>
+<rect width="1600" height="1000" fill="url(#gcover-cloud)"/>
+<rect width="1600" height="1000" fill="url(#rcover-cloud)"/>
+<rect width="1600" height="1000" fill="url(#dcover-cloud)"/>
+<circle cx="128" cy="950" r="450" fill="#fff" fill-opacity=".05"/>
+<circle cx="1520" cy="50" r="300" fill="#fff" fill-opacity=".06"/>
+<g transform="translate(560 160) scale(1.7)"><path d="M110 200 C60 200 40 165 50 135 C60 105 95 92 120 100 C130 55 175 35 215 45 C255 55 275 85 278 110 C320 105 355 135 350 170 C346 195 325 205 300 205 Z" fill="#ffffff" fill-opacity=".92"/><rect x="110" y="240" width="180" height="40" rx="8" fill="#ffffff" fill-opacity=".8"/><circle cx="135" cy="260" r="6" fill="#16a34a"/><rect x="160" y="255" width="100" height="10" rx="5" fill="#000" fill-opacity=".15"/><rect x="110" y="290" width="180" height="40" rx="8" fill="#ffffff" fill-opacity=".8"/><circle cx="135" cy="310" r="6" fill="#16a34a"/><rect x="160" y="305" width="100" height="10" rx="5" fill="#000" fill-opacity=".15"/><rect x="110" y="340" width="180" height="40" rx="8" fill="#ffffff" fill-opacity=".8"/><circle cx="135" cy="360" r="6" fill="#16a34a"/><rect x="160" y="355" width="100" height="10" rx="5" fill="#000" fill-opacity=".15"/><line x1="200" y1="205" x2="200" y2="240" stroke="#ffffff" stroke-width="6"/></g>
+</svg>
